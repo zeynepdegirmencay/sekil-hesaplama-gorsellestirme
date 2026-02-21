@@ -1,0 +1,11 @@
+C:\Users\EREN\source\repos\zeynepödev2\zeynepödev2\obj\Debug\zeynepödev2.csproj.AssemblyReference.cache
+C:\Users\EREN\source\repos\zeynepödev2\zeynepödev2\obj\Debug\zeynepödev2.Form1.resources
+C:\Users\EREN\source\repos\zeynepödev2\zeynepödev2\obj\Debug\zeynepödev2.Properties.Resources.resources
+C:\Users\EREN\source\repos\zeynepödev2\zeynepödev2\obj\Debug\zeynepödev2.csproj.GenerateResource.cache
+C:\Users\EREN\source\repos\zeynepödev2\zeynepödev2\obj\Debug\zeynepödev2.csproj.CoreCompileInputs.cache
+C:\Users\EREN\source\repos\zeynepödev2\zeynepödev2\bin\Debug\zeynepödev2.exe.config
+C:\Users\EREN\source\repos\zeynepödev2\zeynepödev2\bin\Debug\zeynepödev2.exe
+C:\Users\EREN\source\repos\zeynepödev2\zeynepödev2\bin\Debug\zeynepödev2.pdb
+C:\Users\EREN\source\repos\zeynepödev2\zeynepödev2\obj\Debug\zeynepödev2.exe
+C:\Users\EREN\source\repos\zeynepödev2\zeynepödev2\obj\Debug\zeynepödev2.pdb
+C:\Users\EREN\source\repos\zeynepödev2\zeynepödev2\obj\Debug\zeynepödev2.Form2Cizim.resources

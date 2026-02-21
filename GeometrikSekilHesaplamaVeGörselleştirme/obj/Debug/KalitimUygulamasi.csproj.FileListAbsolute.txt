@@ -1,0 +1,8 @@
+C:\Users\EREN\source\repos\zeynepödev2\zeynepödev2\obj\Debug\KalitimUygulamasi.csproj.AssemblyReference.cache
+C:\Users\EREN\source\repos\zeynepödev2\zeynepödev2\obj\Debug\KalitimUygulamasi.Form1.resources
+C:\Users\EREN\source\repos\zeynepödev2\zeynepödev2\obj\Debug\KalitimUygulamasi.Form2Cizim.resources
+C:\Users\EREN\source\repos\zeynepödev2\zeynepödev2\obj\Debug\zeynepödev2.Properties.Resources.resources
+C:\Users\EREN\source\repos\zeynepödev2\zeynepödev2\obj\Debug\KalitimUygulamasi.csproj.GenerateResource.cache
+C:\Users\EREN\source\repos\zeynepödev2\zeynepödev2\obj\Debug\KalitimUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\EREN\source\repos\zeynepödev2\zeynepödev2\obj\Debug\zeynepödev2.exe
+C:\Users\EREN\source\repos\zeynepödev2\zeynepödev2\obj\Debug\zeynepödev2.pdb
