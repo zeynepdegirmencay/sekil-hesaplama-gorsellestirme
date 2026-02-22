@@ -13,3 +13,7 @@ This project is a Windows Forms application developed using C# and object-orient
 - Circle
 - Rectangle
 - Equilateral Triangle
+
+## About
+
+This project was developed as part of a university course.
